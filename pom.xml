@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>sample-release</id>
             <name>sample-release</name>
             <url>http://192.168.182.188:8081/repository/sample-release/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>sample-snap</id>
             <name>sample-snap</name>
             <url>http://192.168.182.188:8081/repository/sample-snap/</url>
         </snapshotRepository>
